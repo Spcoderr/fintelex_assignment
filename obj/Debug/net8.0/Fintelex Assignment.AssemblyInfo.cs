@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fintelex Assignment")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad19859bcf8cf2821e247a1179b9492ef4de0768")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a021a1d6a1de2a2adff8598d079e273aa6edaed9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fintelex Assignment")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fintelex Assignment")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
